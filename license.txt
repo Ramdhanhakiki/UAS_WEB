@@ -1,0 +1,8 @@
+administrator:
+
+admin@example.com
+admin
+
+user:
+ridwanspider18@gmail.com
+sukabumi
